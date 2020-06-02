@@ -15,7 +15,7 @@ invisible(lapply(libs, library, character.only = TRUE))
 #################################################################################
 dir0 <- "/Users/DYang/Dropbox/Working papers/lasso"
 agg <- 4 # change this to 10, 30, and 60 for other aggregation
-cams_set_user("yangdazhi.nus@gmail.com") # this is needed to download McClear
+cams_set_user("your own user name") # this is needed to download McClear
 #################################################################################
 
 # read data
